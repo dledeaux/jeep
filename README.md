@@ -26,7 +26,7 @@ Used as an accessory mount for the dash bar in a roll cage
 
 
 ## Donation
-A lot of time and effort has gone into the design of these models.  (Print as many as you want for youselves or your friends, but please don't sell these for money.)
+A lot of time and effort has gone into the design of these models.  (Print as many as you want for youselves or your friends, but please don't sell these or modify these models to sell for money.)
 
 If you like these models, please donate to my coffee fund. 
 
