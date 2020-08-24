@@ -18,6 +18,10 @@ Allows the use of an oversized seat warmer switch as found here: https://smile.a
 Used to give 3 additional Carling style switches for accessories.
 
 
+### Dash bar clamp
+
+Used as an accessory mount for the dash bar in a roll cage
+
 
 
 
