@@ -18,6 +18,6 @@ You can not use 1/4"-20 .5" on the top/side as the holes are not deep enough and
 ## Donation
 A lot of time and effort has gone into the design of these models.  (Print as many as you want for youselves or your friends, but please don't sell these or modify these models to sell for money.)
 
-If you like these models, please donate to my coffee fund. 
+If you like these models, please donate to my ~~coffee~~ Jeep fund. 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/davidledeaux)
